@@ -51,9 +51,9 @@ namespace GST_Biller
             groupBox1.Show();
         }
 
-        private void Button2_Click(object sender, EventArgs e)
+        private void Button_bill_generation_click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
 
 
@@ -191,7 +191,7 @@ namespace GST_Biller
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("Try Again\nReason : " + ex.Message + "", "AVVMS");
+                    MessageBox.Show("Try Again\nReason : " + ex.Message + "", "GST Biller");
                 }
             }
 

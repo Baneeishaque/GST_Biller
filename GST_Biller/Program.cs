@@ -15,7 +15,7 @@ namespace GST_Biller
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Product_Manipulation());
+            Application.Run(new Bill_Generation());
         }
     }
 }

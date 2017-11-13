@@ -86,7 +86,7 @@
             this.button_bill_generation.TabIndex = 18;
             this.button_bill_generation.Text = "Bill Generation";
             this.button_bill_generation.UseVisualStyleBackColor = true;
-            this.button_bill_generation.Click += new System.EventHandler(this.Button2_Click);
+            this.button_bill_generation.Click += new System.EventHandler(this.Button_bill_generation_click);
             // 
             // button_about_us
             // 
