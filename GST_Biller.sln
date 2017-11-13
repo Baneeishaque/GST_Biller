@@ -7,14 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GST_Biller", "GST_Biller\GS
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{99DF5660-04DE-4112-9DFF-DD5E9F2E6D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{99DF5660-04DE-4112-9DFF-DD5E9F2E6D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{99DF5660-04DE-4112-9DFF-DD5E9F2E6D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{99DF5660-04DE-4112-9DFF-DD5E9F2E6D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99DF5660-04DE-4112-9DFF-DD5E9F2E6D9B}.Debug|x86.ActiveCfg = Debug|x86
+		{99DF5660-04DE-4112-9DFF-DD5E9F2E6D9B}.Debug|x86.Build.0 = Debug|x86
+		{99DF5660-04DE-4112-9DFF-DD5E9F2E6D9B}.Release|x86.ActiveCfg = Release|x86
+		{99DF5660-04DE-4112-9DFF-DD5E9F2E6D9B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
